@@ -1,0 +1,59 @@
+---
+- name: Install PROMETEY
+  hosts: all
+  become: yes
+
+  tasks:
+
+  - name: Copy foder promtool
+    copy:
+      src: /home/osboxes/ansible/downloader/prometheus-2.29.2.linux-amd64/promtool
+      dest: /usr/local/bin
+  - name: Copy folder Prometheus
+    copy:
+      src: /home/osboxes/ansible/downloader/prometheus-2.29.2.linux-amd64/prometheus
+      dest: /usr/local/bin
+
+  - name: Create Directory
+    file:
+      path: /etc/prometheus
+      state: directory
+
+  - name: Copy file yml in /etc/prometheus
+    copy:
+      src: /home/osboxes/ansible/downloader/prometheus-2.29.2.linux-amd64/prometheus.yml
+      dest: /etc/prometheus
+
+  - name: Add new user prometheus
+    user:
+      name: prometheus
+      shell: /bin/false
+
+  - name: Create dir
+    file:
+      path: /var/lib/prometheus
+      state: directory
+      owner: prometheus
+      group: prometheus
+
+  - name: Copy file unit prometheus
+    copy:
+      src: /home/osboxes/ansible/downloader/prometheus.service
+      dest: /etc/systemd/system
+
+  - name: Start Prometheus
+    service: name=prometheus state=started enabled=yes
+
+  - name: Change file permissions
+    file:
+      path: /usr/local/bin/prometheus
+      owner: root
+      group: root
+      mode: '0711'
+
+  - name: Change file permissions
+    file:
+      path: /usr/local/bin/promtool
+      owner: root
+      group: root
+      mode: '0711'
