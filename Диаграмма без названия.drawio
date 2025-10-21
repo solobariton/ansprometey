@@ -184,8 +184,8 @@
         <mxCell id="qKras6gi_AzTFav5Ec5C-141" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qKras6gi_AzTFav5Ec5C-142" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="qKras6gi_AzTFav5Ec5C-143" value="DMZ" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="428" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
