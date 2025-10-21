@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
+  <diagram name="Страница — 1" id="tg3USUmfea0GnftBFbyw">
+    <mxGraphModel dx="1426" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="700" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="250" width="68" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;container=0;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-2">
+          <mxGeometry width="42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-4" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;fontSize=10;container=0;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-2">
+          <mxGeometry width="44" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-2">
+          <mxGeometry x="29" y="43" width="34.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="271" width="68" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;container=0;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-6">
+          <mxGeometry width="42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-8" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;fontSize=10;container=0;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-6">
+          <mxGeometry width="44" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Active_Directory.svg;" vertex="1" parent="JiDbIx2vVGZ_7LprIlS1-6">
+          <mxGeometry x="28" y="58" width="32" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
