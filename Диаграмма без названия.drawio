@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
   <diagram name="Страница — 1" id="tg3USUmfea0GnftBFbyw">
-    <mxGraphModel dx="1426" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JiDbIx2vVGZ_7LprIlS1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="JiDbIx2vVGZ_7LprIlS1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="700" height="340" as="geometry" />
         </mxCell>
         <mxCell id="JiDbIx2vVGZ_7LprIlS1-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="290" y="250" width="68" height="91" as="geometry" />
+          <mxGeometry x="380" y="270" width="68" height="91" as="geometry" />
         </mxCell>
         <mxCell id="JiDbIx2vVGZ_7LprIlS1-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;container=0;" parent="JiDbIx2vVGZ_7LprIlS1-2" vertex="1">
           <mxGeometry width="42" height="80" as="geometry" />
@@ -32,7 +32,34 @@
           <mxGeometry x="28" y="58" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-1" value="Домен оперативно-технологического управления (ДОТУ)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="270" height="50" as="geometry" />
+          <mxGeometry x="80" y="70" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-3" value="СУБД" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_pc;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-5" value="АРМ диспетчера" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="270" width="68" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;container=0;" vertex="1" parent="qKras6gi_AzTFav5Ec5C-6">
+          <mxGeometry width="42" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-8" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.server;fillColor=#005073;strokeColor=none;fontSize=10;container=0;" vertex="1" parent="qKras6gi_AzTFav5Ec5C-6">
+          <mxGeometry width="44" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-9" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;container=0;" vertex="1" parent="qKras6gi_AzTFav5Ec5C-6">
+          <mxGeometry x="30.950000000000003" y="61.73333333333335" width="36.099999999999994" height="22.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.application_generic;container=0;" vertex="1" parent="qKras6gi_AzTFav5Ec5C-6">
+          <mxGeometry x="30" y="58" width="38" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qKras6gi_AzTFav5Ec5C-11" value="Серверы приложений (с ТУ)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
