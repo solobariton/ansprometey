@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JiDbIx2vVGZ_7LprIlS1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="680" height="340" as="geometry" />
+          <mxGeometry x="30" y="40" width="680" height="340" as="geometry" />
         </mxCell>
         <mxCell id="JiDbIx2vVGZ_7LprIlS1-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="387.5" y="261.25" width="80" height="101" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="600" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-37" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=8 8;strokeWidth=2;whiteSpace=wrap;html=1;strokeColor=light-dark(#a51d2d, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="45" y="460.73" width="655" height="389.27" as="geometry" />
+          <mxGeometry x="30" y="460.73" width="665" height="389.27" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=2;" edge="1" parent="1" source="qKras6gi_AzTFav5Ec5C-38">
           <mxGeometry relative="1" as="geometry">
@@ -149,7 +149,7 @@
           <mxGeometry x="298.5" y="1109" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-124" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMzIgMzIiPgogICAgPHBhdGggc3R5bGU9InRleHQtaW5kZW50OjA7dGV4dC1hbGlnbjpzdGFydDtsaW5lLWhlaWdodDpub3JtYWw7dGV4dC10cmFuc2Zvcm06bm9uZTtibG9jay1wcm9ncmVzc2lvbjp0YjstaW5rc2NhcGUtZm9udC1zcGVjaWZpY2F0aW9uOkJpdHN0cmVhbSBWZXJhIFNhbnMiIGQ9Ik0gMjguMjgxMjUgNi4yODEyNSBMIDExIDIzLjU2MjUgTCAzLjcxODc1IDE2LjI4MTI1IEwgMi4yODEyNSAxNy43MTg3NSBMIDEwLjI4MTI1IDI1LjcxODc1IEwgMTEgMjYuNDA2MjUgTCAxMS43MTg3NSAyNS43MTg3NSBMIDI5LjcxODc1IDcuNzE4NzUgTCAyOC4yODEyNSA2LjI4MTI1IHoiIGNvbG9yPSIjMDAwIiBvdmVyZmxvdz0idmlzaWJsZSIgZW5hYmxlLWJhY2tncm91bmQ9ImFjY3VtdWxhdGUiIGZvbnQtZmFtaWx5PSJCaXRzdHJlYW0gVmVyYSBTYW5zIi8+Cjwvc3ZnPg==;" parent="1" vertex="1">
-          <mxGeometry x="342.21" y="699.9999999999999" width="32" height="32" as="geometry" />
+          <mxGeometry x="346.5" y="699.9999999999999" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-126" style="vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="77.75" y="1109.5" width="44.5" height="50" as="geometry" />
@@ -202,8 +202,8 @@
         <mxCell id="qKras6gi_AzTFav5Ec5C-145" value="Терминальный сервер 3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="447.25" y="481.42" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qKras6gi_AzTFav5Ec5C-147" value="Брокер x2go - сессий" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="357.5" y="655.0799999999999" width="82.5" height="30" as="geometry" />
+        <mxCell id="qKras6gi_AzTFav5Ec5C-147" value="Брокер X2Go - сессий" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="655.08" width="52.5" height="34.92" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-148" value="СУБД" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="551" y="658.01" width="60" height="30" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="230" y="40" width="20.47" height="21.95" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-89" value="Прокси-сервер" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="720" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=13;labelBackgroundColor=default;fontColor=default;jumpStyle=none;" edge="1" parent="1" source="qKras6gi_AzTFav5Ec5C-110" target="qKras6gi_AzTFav5Ec5C-21">
           <mxGeometry relative="1" as="geometry">
