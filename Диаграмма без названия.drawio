@@ -241,15 +241,15 @@
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-139" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="1110" as="sourcePoint" />
-            <mxPoint x="321.2444827586207" y="756.18" as="targetPoint" />
+            <mxPoint x="318.88" y="1111" as="sourcePoint" />
+            <mxPoint x="320.1244827586207" y="757.18" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-140" value="АРМ ОВБ (Web-клиент)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="53.75" y="1169" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-141" value="RDP" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="290" y="880" width="60" height="30" as="geometry" />
+          <mxGeometry x="289.5" y="963.8199999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-142" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.408;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qKras6gi_AzTFav5Ec5C-127">
           <mxGeometry relative="1" as="geometry">
