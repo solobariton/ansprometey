@@ -230,10 +230,10 @@
           <mxGeometry x="80" y="980" width="590" height="219" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-88" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#e01b24, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="190" y="10" width="80" height="50" as="geometry" />
+          <mxGeometry x="185" y="18.05" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-63" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;" vertex="1" parent="1">
-          <mxGeometry x="212.39000000000001" y="18.049999999999997" width="31.61" height="33.9" as="geometry" />
+          <mxGeometry x="230" y="40" width="20.47" height="21.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
