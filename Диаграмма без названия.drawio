@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-84" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;hachureGap=4;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="-25.91" y="892" width="669.42" height="219" as="geometry" />
+          <mxGeometry x="-25.91" y="869.32" width="669.42" height="219" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-88" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#e01b24, #ededed);" vertex="1" parent="1">
           <mxGeometry x="185" y="18.05" width="80" height="50" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-89" value="Прокси-сервер" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="710" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yt7thMcMbfZu-RDhDGTs-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=13;labelBackgroundColor=default;fontColor=default;" edge="1" parent="1" source="qKras6gi_AzTFav5Ec5C-110" target="qKras6gi_AzTFav5Ec5C-21">
+        <mxCell id="Yt7thMcMbfZu-RDhDGTs-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=13;labelBackgroundColor=default;fontColor=default;jumpStyle=none;" edge="1" parent="1" source="qKras6gi_AzTFav5Ec5C-110" target="qKras6gi_AzTFav5Ec5C-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-128" value="HTTPS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=14;" vertex="1" parent="1">
