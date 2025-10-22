@@ -190,8 +190,8 @@
         <mxCell id="qKras6gi_AzTFav5Ec5C-140" value="Терминальный сервер 1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="215.68" y="481.42" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qKras6gi_AzTFav5Ec5C-141" value="Терминальная ферма" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="184" y="670" width="60" height="30" as="geometry" />
+        <mxCell id="qKras6gi_AzTFav5Ec5C-141" value="Терминальная ферма" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="186.25" y="705.18" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qKras6gi_AzTFav5Ec5C-143" value="DMZ" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="70" y="500" width="60" height="30" as="geometry" />
