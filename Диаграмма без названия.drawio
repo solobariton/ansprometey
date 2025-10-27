@@ -300,11 +300,6 @@
         <mxCell id="QUkc8n2lJ9mTT0OE4B8_-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="QUkc8n2lJ9mTT0OE4B8_-24">
           <mxGeometry x="38.38235294117647" y="50.087912087912095" width="40.18681318681319" height="53.58241758241759" as="geometry" />
         </mxCell>
-        <UserObject label="[ZoneTransfer]&#xa;ZoneId=3&#xa;ReferrerUrl=https://web.telegram.org/k/&#xa;HostUrl=https://web.telegram.org/k/d/1239097908" link="[ZoneTransfer]&#xa;ZoneId=3&#xa;ReferrerUrl=https://web.telegram.org/k/&#xa;HostUrl=https://web.telegram.org/k/d/1239097908" id="QUkc8n2lJ9mTT0OE4B8_-32">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry width="293" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="QUkc8n2lJ9mTT0OE4B8_-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="286" y="651" width="126" height="134" as="geometry" />
         </mxCell>
