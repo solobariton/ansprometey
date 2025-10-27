@@ -211,8 +211,8 @@
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-140" value="АРМ ОВБ (Web-клиент)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="110" y="1080.5" width="92.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yt7thMcMbfZu-RDhDGTs-141" value="RDP" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="289.5" y="950" width="60.5" height="43.82" as="geometry" />
+        <mxCell id="Yt7thMcMbfZu-RDhDGTs-141" value="HTTPS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="290.75" y="930" width="60.5" height="43.82" as="geometry" />
         </mxCell>
         <mxCell id="Yt7thMcMbfZu-RDhDGTs-142" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.408;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qKras6gi_AzTFav5Ec5C-127" edge="1">
           <mxGeometry relative="1" as="geometry">
